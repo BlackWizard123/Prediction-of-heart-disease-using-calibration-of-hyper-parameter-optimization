@@ -97,7 +97,10 @@ This study utilizes a multi-stage computational intelligence framework combining
 * **Computational Overhead:** The use of multiple kernels
 
 ---
+## SYSTEM ARCHITECTURE
+<img width="1001" height="611" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/c6157179-c9ea-4e6c-a9b0-bf7dddf83487" />
 
+---
 ## SYSTEM MODULES
 
 ## I. Data Preprocessing
@@ -167,6 +170,9 @@ A comprehensive approach is taken by utilizing three distinct methods:
 1. **Filter Methods:** Uses statistical measures to score the correlation between features and the target variable (e.g., **Mutual Information, ANOVA, Chi-square**).
 2. **Wrapper Methods:** Treats the feature selection process as a search problem, evaluating subsets of features by actually training a model on them (e.g., **Sequential Forward Selection, Sequential Backward Elimination, Boruta**).
 3. **Embedded Methods:** Performs feature selection as an integral part of the model construction process (e.g., **LASSO, Decision Trees, Genetic Algorithms**).
+
+
+<img width="481" height="216" alt="Untitled Diagram-Page-2 drawio pngjnj" src="https://github.com/user-attachments/assets/e8d50f97-ab33-4a37-aeeb-53bd4ede186a" />
 
 ---
 
@@ -558,6 +564,9 @@ To evaluate the success of this project, we compared our results against the cur
 | **Algorithm**         | Random Forest                      | **Ensemble (RF, XGBoost, KNN)**                 |
 | **Optimization**      | TPOT                               | Multi-strategy HPO + Decision Tree Meta-Learner |
 | **Max Accuracy**      | 97.52%                             | **98.36%**                                      |
+
+<img width="947" height="492" alt="image" src="https://github.com/user-attachments/assets/3a207db9-10e0-4123-a5de-1b48843de062" />
+
 
 ### Key Improvements
 
