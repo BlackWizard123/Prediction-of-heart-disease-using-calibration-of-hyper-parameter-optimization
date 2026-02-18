@@ -1,3 +1,6 @@
+
+<img width="3464" height="1635" alt="Picsart_26-02-19_01-24-13-924" src="https://github.com/user-attachments/assets/357ecc8c-4f01-4b6e-b937-c29792a504e6" />
+
 # Prediction of heart disease using calibration of hyper parameter optimization
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
